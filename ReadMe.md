@@ -16,6 +16,11 @@ Below is the list of applications available as DMG files.
 | 6             | WhatsApp              | <a href="https://scontent.xx.fbcdn.net/v/t39.16592-6/10000000_9056455091115779_1680877999340517009_n.dmg/WhatsApp-2.25.1.83.dmg?_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=8f3826&amp;_nc_ohc=HilBJco6Ji8Q7kNvgG5TQZu&amp;_nc_zt=14&amp;_nc_ht=scontent.xx&amp;_nc_gid=AiRQGmzNRpibMgsE_PnlECK&amp;oh=00_AYAXZ7VAJvlonecRPwLhfFOa1f0Li_3EkVqmriTyHflHvQ&amp;oe=67B367F3" target="_blank">https://scontent.xx.fbcdn.net/v/t39.16592-6/10000000_9056455091115779_1680877999340517009_n.dmg/WhatsApp-2.25.1.83.dmg?_nc_cat=1&amp;ccb=1-7&amp;_nc_sid=8f3826&amp;_nc_ohc=HilBJco6Ji8Q7kNvgG5TQZu&amp;_nc_zt=14&amp;_nc_ht=scontent.xx&amp;_nc_gid=AiRQGmzNRpibMgsE_PnlECK&amp;oh=00_AYAXZ7VAJvlonecRPwLhfFOa1f0Li_3EkVqmriTyHflHvQ&amp;oe=67B367F3</a> |
 | 7             | Telegram              | <a href="https://td.telegram.org/tmac/tsetup.5.10.7.dmg" target="_blank">https://td.telegram.org/tmac/tsetup.5.10.7.dmg</a> |
 | 8             | DB Browser for SQLite | <a href="https://download.sqlitebrowser.org/DB.Browser.for.SQLite-v3.13.1.dmg" target="_blank">https://download.sqlitebrowser.org/DB.Browser.for.SQLite-v3.13.1.dmg</a> |
+| 9             | Firefox | <a href="https://download-installer.cdn.mozilla.net/pub/firefox/releases/135.0/mac/en-US/Firefox%20135.0.dmg" target="_blank">https://download-installer.cdn.mozilla.net/pub/firefox/releases/135.0/mac/en-US/Firefox%20135.0.dmg</a> |
+| 10            | Slack   | <a href="https://downloads.slack-edge.com/desktop-releases/mac/universal/4.42.117/Slack-4.42.117-macOS.dmg" target="_blank">https://downloads.slack-edge.com/desktop-releases/mac/universal/4.42.117/Slack-4.42.117-macOS.dmg</a> |
+| 11            | Android Studio | <a href="https://r2---sn-b5up3cn-cagl.gvt1.com/edgedl/android/studio/install/2024.2.2.13/android-studio-2024.2.2.13-mac_arm.dmg?cms_redirect=yes&met=1739428543,&mh=oy&mip=103.146.216.56&mm=28&mn=sn-b5up3cn-cagl&ms=nvh&mt=1739428096&mv=m&mvi=2&pl=24&rmhost=r1---sn-b5up3cn-cagl.gvt1.com&rms=nvh,nvh&shardbypass=sd&smhost=r2---sn-b5up3cn-cags.gvt1.com" target="_blank">https://r2---sn-b5up3cn-cagl.gvt1.com/edgedl/android/studio/install/2024.2.2.13/android-studio-2024.2.2.13-mac_arm.dmg</a> |
+
+
 
 ## PKG Applications
 
