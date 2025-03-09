@@ -33,6 +33,14 @@ Below is the list of applications available as PKG files.
 | 4             | 🐍    | Python        | <a href="https://www.python.org/ftp/python/3.13.1/python-3.13.1-macos11.pkg" target="_blank">Download</a><br><small>https://www.python.org/ftp/python/3.13.1/python-3.13.1-macos11.pkg</small> |
 | 5             | 📹    | Zoom          | <a href="https://cdn.zoom.us/prod/6.3.6.47101/arm64/zoomusInstallerFull.pkg" target="_blank">Download</a><br><small>https://cdn.zoom.us/prod/6.3.6.47101/arm64/zoomusInstallerFull.pkg</small> |
 
+## Zipped Applications
+
+Below is the list of applications available as Zipped files.
+
+| Serial Number | Emoji | App Name      | PKG Link |
+|---------------|-------|---------------|----------|
+| 1             | 🌐    | VSCode | <a href="https://vscode.download.prss.microsoft.com/dbazure/download/stable/6609ac3d66f4eade5cf376d1cb76f13985724bcb/VSCode-darwin-universal.zip" target="_blank">Download</a><br><small>https://vscode.download.prss.microsoft.com/dbazure/download/stable/6609ac3d66f4eade5cf376d1cb76f13985724bcb/VSCode-darwin-universal.zip</small> |
+
 ## Other sites to download apps with all versions
 
 Check out this site: [Uptodown](https://en.uptodown.com/)
