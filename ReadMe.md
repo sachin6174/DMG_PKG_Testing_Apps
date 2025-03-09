@@ -20,7 +20,11 @@ Below is the list of applications available as DMG files.
 | 10             | 🗄️    | Figma | <a href="https://desktop.figma.com/mac-installer/Figma.dmg" target="_blank">Download</a><br><small>https://desktop.figma.com/mac-installer/Figma.dmg</small> |
 | 11             | 🗄️    | Discord | <a href="https://stable.dl2.discordapp.net/apps/osx/0.0.329/Discord.dmg" target="_blank">Download</a><br><small>https://stable.dl2.discordapp.net/apps/osx/0.0.329/Discord.dmg</small> |
 | 12             | 🗄️    | Android Studio | <a href="https://r2---sn-b5up3cn-cags.gvt1.com/edgedl/android/studio/install/2024.2.2.14/android-studio-2024.2.2.14-mac_arm.dmg" target="_blank">Download</a><br><small>https://r2---sn-b5up3cn-cags.gvt1.com/edgedl/android/studio/install/2024.2.2.14/android-studio-2024.2.2.14-mac_arm.dmg</small> |
-| 13             | 🗄️    | Android Studio | <a href="https://mirror.nju.edu.cn/videolan-ftp/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg" target="_blank">Download</a><br><small>https://mirror.nju.edu.cn/videolan-ftp/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg</small> |
+| 13             | 🗄️    | VLC | <a href="https://mirror.nju.edu.cn/videolan-ftp/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg" target="_blank">Download</a><br><small>https://mirror.nju.edu.cn/videolan-ftp/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg</small> |
+| 14             | 🗄️    | Hopper Disassembler | <a href="https://www.hopperapp.com/downloader/hopperv4/Hopper-5.17.3-demo.dmg" target="_blank">Download</a><br><small>https://www.hopperapp.com/downloader/hopperv4/Hopper-5.17.3-demo.dmg</small> |
+
+
+
 
 ## PKG Applications
 
