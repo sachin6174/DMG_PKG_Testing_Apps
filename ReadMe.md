@@ -45,6 +45,7 @@ Below is the list of applications available as Zipped files.
 | Serial Number | Emoji | App Name      | Zipped Link |
 |---------------|-------|---------------|----------|
 | 1             | 🌐    | VSCode | <a href="https://vscode.download.prss.microsoft.com/dbazure/download/stable/6609ac3d66f4eade5cf376d1cb76f13985724bcb/VSCode-darwin-universal.zip" target="_blank">Download</a><br><small>https://vscode.download.prss.microsoft.com/dbazure/download/stable/6609ac3d66f4eade5cf376d1cb76f13985724bcb/VSCode-darwin-universal.zip</small> |
+| 2             | 🌐    | Cursor IDE | <a href="https://download.todesktop.com/230313mzl4w4u92/Cursor%20Mac%20Installer%20(24111460bf2loz1).zip" target="_blank">Download</a><br><small>https://download.todesktop.com/230313mzl4w4u92/Cursor%20Mac%20Installer%20(24111460bf2loz1).zip</small> |
 
 ## Other sites to download apps with all versions
 
