@@ -37,7 +37,7 @@ Below is the list of applications available as PKG files.
 
 Below is the list of applications available as Zipped files.
 
-| Serial Number | Emoji | App Name      | PKG Link |
+| Serial Number | Emoji | App Name      | Zipped Link |
 |---------------|-------|---------------|----------|
 | 1             | 🌐    | VSCode | <a href="https://vscode.download.prss.microsoft.com/dbazure/download/stable/6609ac3d66f4eade5cf376d1cb76f13985724bcb/VSCode-darwin-universal.zip" target="_blank">Download</a><br><small>https://vscode.download.prss.microsoft.com/dbazure/download/stable/6609ac3d66f4eade5cf376d1cb76f13985724bcb/VSCode-darwin-universal.zip</small> |
 
