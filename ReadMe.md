@@ -19,6 +19,7 @@ Below is the list of applications available as DMG files.
 | 9             | 🗄️    | SF Symbol 6 | <a href="https://devimages-cdn.apple.com/design/resources/download/SF-Symbols-6.dmg" target="_blank">Download</a><br><small>https://devimages-cdn.apple.com/design/resources/download/SF-Symbols-6.dmg</small> |
 | 10             | 🗄️    | Figma | <a href="https://desktop.figma.com/mac-installer/Figma.dmg" target="_blank">Download</a><br><small>https://desktop.figma.com/mac-installer/Figma.dmg</small> |
 | 11             | 🗄️    | Discord | <a href="https://stable.dl2.discordapp.net/apps/osx/0.0.329/Discord.dmg" target="_blank">Download</a><br><small>https://stable.dl2.discordapp.net/apps/osx/0.0.329/Discord.dmg</small> |
+| 12             | 🗄️    | Android Studio | <a href="https://r2---sn-b5up3cn-cags.gvt1.com/edgedl/android/studio/install/2024.2.2.14/android-studio-2024.2.2.14-mac_arm.dmg" target="_blank">Download</a><br><small>https://r2---sn-b5up3cn-cags.gvt1.com/edgedl/android/studio/install/2024.2.2.14/android-studio-2024.2.2.14-mac_arm.dmg</small> |
 
 ## PKG Applications
 
