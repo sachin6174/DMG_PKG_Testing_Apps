@@ -23,7 +23,7 @@ Below is the list of applications available as DMG files.
 | 13             | 🗄️    | VLC | <a href="https://mirror.nju.edu.cn/videolan-ftp/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg" target="_blank">Download</a><br><small>https://mirror.nju.edu.cn/videolan-ftp/vlc/3.0.21/macosx/vlc-3.0.21-intel64.dmg</small> |
 | 14             | 🗄️    | Hopper Disassembler | <a href="https://www.hopperapp.com/downloader/hopperv4/Hopper-5.17.3-demo.dmg" target="_blank">Download</a><br><small>https://www.hopperapp.com/downloader/hopperv4/Hopper-5.17.3-demo.dmg</small> |
 | 15             | 🗄️    | Open Board | <a href="https://objects.githubusercontent.com/github-production-release-asset-2e65be/44120512/48612923-db4f-4aaa-89f4-da129751d910?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250309%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250309T120506Z&X-Amz-Expires=300&X-Amz-Signature=a446d90e5fa63dca478641c0783f25c365373852027d92ef0744d416ce877ae6&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DOpenBoard-1.7.3.dmg&response-content-type=application%2Foctet-stream" target="_blank">Download</a><br><small>https://objects.githubusercontent.com/github-production-release-asset-2e65be/44120512/48612923-db4f-4aaa-89f4-da129751d910?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250309%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250309T120506Z&X-Amz-Expires=300&X-Amz-Signature=a446d90e5fa63dca478641c0783f25c365373852027d92ef0744d416ce877ae6&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3DOpenBoard-1.7.3.dmg&response-content-type=application%2Foctet-stream</small> |
-
+| 16             | 🗄️    | OmniDiskSweeper | <a href="https://downloads.omnigroup.com/software/macOS/11/OmniDiskSweeper-1.15.1b.dmg" target="_blank">Download</a><br><small>https://downloads.omnigroup.com/software/macOS/11/OmniDiskSweeper-1.15.1b.dmg</small> |
 
 
 
@@ -47,6 +47,7 @@ Below is the list of applications available as Zipped files.
 |---------------|-------|---------------|----------|
 | 1             | 🌐    | VSCode | <a href="https://vscode.download.prss.microsoft.com/dbazure/download/stable/6609ac3d66f4eade5cf376d1cb76f13985724bcb/VSCode-darwin-universal.zip" target="_blank">Download</a><br><small>https://vscode.download.prss.microsoft.com/dbazure/download/stable/6609ac3d66f4eade5cf376d1cb76f13985724bcb/VSCode-darwin-universal.zip</small> |
 | 2             | 🌐    | Cursor IDE | <a href="https://download.todesktop.com/230313mzl4w4u92/Cursor%20Mac%20Installer%20(24111460bf2loz1).zip" target="_blank">Download</a><br><small>https://download.todesktop.com/230313mzl4w4u92/Cursor%20Mac%20Installer%20(24111460bf2loz1).zip</small> |
+| 3             | 🌐    | Launch Control | <a href="https://www.soma-zone.com/download/files/LaunchControl-2.8.1.tar.xz" target="_blank">Download</a><br><small>https://www.soma-zone.com/download/files/LaunchControl-2.8.1.tar.xz</small> |
 
 ## Other sites to download apps with all versions
 
